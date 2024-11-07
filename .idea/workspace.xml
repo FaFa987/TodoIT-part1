@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e06ff380-75e7-4531-b80c-323ae5d55fce" name="Changes" comment="Person">
+    <list default="true" id="e06ff380-75e7-4531-b80c-323ae5d55fce" name="Changes" comment="TodoItem">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/se/lexicon/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/se/lexicon/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/se/lexicon/TodoItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/se/lexicon/TodoItem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/lexicon/TodoItemTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/se/lexicon/TodoItemTask.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +76,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1730999377431</updated>
-      <workItem from="1730999378502" duration="8186000" />
+      <workItem from="1730999378502" duration="9352000" />
     </task>
     <task id="LOCAL-00001" summary="Person">
       <option name="closed" value="true" />
@@ -86,7 +86,15 @@
       <option name="project" value="LOCAL" />
       <updated>1731017985075</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="TodoItem">
+      <option name="closed" value="true" />
+      <created>1731021294472</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1731021294472</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -94,6 +102,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Person" />
-    <option name="LAST_COMMIT_MESSAGE" value="Person" />
+    <MESSAGE value="TodoItem" />
+    <option name="LAST_COMMIT_MESSAGE" value="TodoItem" />
   </component>
 </project>

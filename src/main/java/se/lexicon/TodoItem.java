@@ -56,6 +56,7 @@ public class TodoItem {
         return done;
     }
     public Person getCreator() {
+        getSummary();
         return creator;
     }
     public String getTaskDescription() {
