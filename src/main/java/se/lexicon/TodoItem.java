@@ -40,7 +40,7 @@ public class TodoItem {
         this.deadLine = Objects.requireNonNull(deadLine, "DeadLine cannot be null");
     }
 
-    public void setDone() {
+    public void setDone(boolean done) {
         this.done = true;
     }
     public void setCreator(Person creator) {
@@ -56,7 +56,6 @@ public class TodoItem {
         return done;
     }
     public Person getCreator() {
-        getSummary();
         return creator;
     }
     public String getTaskDescription() {
@@ -70,7 +69,8 @@ public class TodoItem {
         this.taskDescription = taskDescription;
     }
     public boolean isOverdue(){
-        return !done;
+        LocalDate now = LocalDate.now();
+        return !done && deadLine.isBefore(now);
     }
     public String getSummary(){
         return taskDescription + ": " + deadLine + " - " + creator;

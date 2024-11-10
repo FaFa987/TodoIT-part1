@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e06ff380-75e7-4531-b80c-323ae5d55fce" name="Changes" comment="TodoItem">
+    <list default="true" id="e06ff380-75e7-4531-b80c-323ae5d55fce" name="Changes" comment="TodoItemTask">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/lexicon/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/se/lexicon/Person.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/se/lexicon/TodoItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/se/lexicon/TodoItem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/se/lexicon/TodoItemTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/se/lexicon/TodoItemTask.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,21 +24,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "FaFa987"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;FaFa987&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/FaFa987/TodoIT-part1.git",
-    "accountId": "f2044c5e-fc00-4846-8852-2e1f8db6bc6e"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/FaFa987/TodoIT-part1.git&quot;,
+    &quot;accountId&quot;: &quot;f2044c5e-fc00-4846-8852-2e1f8db6bc6e&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2oWxx5oIxtrgZR6mpzwH3LuhNps" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -51,6 +51,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/lexicon/Java/Todo IT - part 1",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -76,7 +77,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1730999377431</updated>
-      <workItem from="1730999378502" duration="9352000" />
+      <workItem from="1730999378502" duration="11066000" />
+      <workItem from="1731194921311" duration="2115000" />
     </task>
     <task id="LOCAL-00001" summary="Person">
       <option name="closed" value="true" />
@@ -94,7 +96,15 @@
       <option name="project" value="LOCAL" />
       <updated>1731021294472</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="TodoItemTask">
+      <option name="closed" value="true" />
+      <created>1731022654679</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1731022654679</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -103,6 +113,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Person" />
     <MESSAGE value="TodoItem" />
-    <option name="LAST_COMMIT_MESSAGE" value="TodoItem" />
+    <MESSAGE value="TodoItemTask" />
+    <option name="LAST_COMMIT_MESSAGE" value="TodoItemTask" />
   </component>
 </project>

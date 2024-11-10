@@ -5,12 +5,12 @@ package se.lexicon;
 public class Main {
     public static void main(String[] args) {
 
-        Person p1 = new Person(4, "Nisse" , "Olsson" ,  "nisse@gmail.com");
-        System.out.println(p1.getSummary());
-        TodoItem creator1 = new TodoItem("drama" , "story composed in verse" , true, p1);
+        Person creator = new Person(4, "Nisse" , "Olsson" ,  "nisse@gmail.com");
+        System.out.println(creator.getSummary());
+        //TodoItem creator1 = new TodoItem("drama" , "story composed in verse" , true, p1);
         //TodoItem creator1 = new TodoItem("drama" , "story composed in verse" ,2024 , true, p1);
         //System.out.println(creator1.);
-        System.out.println(creator1.getSummary());
+        //System.out.println(creator.getSummary());
 
     }
 }
