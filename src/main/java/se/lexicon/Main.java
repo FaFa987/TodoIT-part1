@@ -9,8 +9,8 @@ public class Main {
         System.out.println(creator.getSummary());
         //TodoItem creator1 = new TodoItem("drama" , "story composed in verse" , true, p1);
         //TodoItem creator1 = new TodoItem("drama" , "story composed in verse" ,2024 , true, p1);
-        //System.out.println(creator1.);
         //System.out.println(creator.getSummary());
+
 
     }
 }

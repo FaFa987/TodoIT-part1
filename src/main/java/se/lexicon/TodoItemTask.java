@@ -29,6 +29,12 @@ public class TodoItemTask {
     public void setTodoItem(TodoItem todoItem) {
         this.todoItem = todoItem;
     }
+    public void setAssignee(Person assignee) {
+        this.assignee = assignee;
+    }
+    public Person getAssignee() {
+        return assignee;
+    }
 
     public String getSummary(){
         return todoItem.getSummary();
